@@ -1,2 +1,2 @@
 # PySweeper
-### Mine-Sweeper made with Python library PyGame.
+Mine-Sweeper made with PyGame.
